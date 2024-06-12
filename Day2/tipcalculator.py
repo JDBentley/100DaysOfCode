@@ -8,7 +8,7 @@ tip_percent = int(input('What percentage would you like to tip? '))
 
 #Calculating results
 bill_share = round(bill / party, 2)
-tip = (.1 * tip_percent) * bill_share
+tip = (.01 * tip_percent) * bill_share
 total = bill_share + tip
 
 #Returning solution
