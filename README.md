@@ -4,3 +4,10 @@
  * Inputs
  * Variables
  * Band Name Generator
+
+ ## Day 2 Projects
+ * Datatypes
+ * BMI Calculator
+ * Life In Weeks
+ * Tip Calculator
+
